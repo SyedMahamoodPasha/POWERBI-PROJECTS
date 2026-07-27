@@ -1,0 +1,37 @@
+DMAX EV Motors Sales & Profit Dashboard
+Overview
+
+This project is an interactive Power BI dashboard developed using real EV showroom sales data from DMAX EV Motors. The dashboard provides comprehensive insights into sales performance, profitability, customer activity, and inventory trends to support data-driven business decisions.
+
+Features
+Analyzed showroom sales data to monitor revenue, profit, customer activity, and units sold.
+Cleaned and transformed raw sales and billing data using Power Query.
+Created KPI cards for Total Sales, Total Profit, Units Sold, and Customer Count.
+Developed product-wise sales analysis, payment mode analysis, and salesperson performance reports using DAX.
+Implemented interactive filters for City, Product, and Delivery Status for dynamic reporting.
+Generated business insights to support sales tracking, inventory planning, and performance evaluation.
+Tools & Technologies
+Power BI
+Power Query
+DAX
+Excel
+Data Visualization
+Dashboard Insights
+
+The dashboard enables users to:
+
+Monitor overall sales and profit performance.
+Analyze product and salesperson performance.
+Evaluate customer purchasing trends.
+Track payment methods and delivery status.
+Support business decisions through interactive visualizations.
+Learning Outcomes
+
+Through this project, I strengthened my skills in:
+
+Data Cleaning & Transformation
+Data Modeling
+DAX Calculations
+KPI Dashboard Development
+Business Intelligence Reporting
+Interactive Data Visualization
